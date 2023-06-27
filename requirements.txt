@@ -1,1 +1,5 @@
-jupyter-lab
+jupyterlab
+pandas
+boto3
+pymongo
+kafka-python

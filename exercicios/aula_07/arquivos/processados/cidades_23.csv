@@ -1,0 +1,112 @@
+index,_id,codigo_ibge,nome,latitude,longitude,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_uf
+23,6494be310417200165ceeb83,2300309,Acopiara,-6.08911,-39.448,0,23,1305,88,America/Sao_Paulo,CE,Ceará
+73,6494be310417200165cef86a,4300455,Alegria,-27.8345,-54.0557,0,43,8497,55,America/Sao_Paulo,RS,Rio Grande do Sul
+123,6494be310417200165cef595,4100608,Alto Paraná,-23.1312,-52.3189,0,41,7409,44,America/Sao_Paulo,PR,Paraná
+173,6494be310417200165cefbda,3501707,Américo Brasiliense,-21.7288,-48.1147,0,35,6133,16,America/Sao_Paulo,SP,São Paulo
+223,6494be310417200165ceee76,3103009,Antônio Dias,-19.6491,-42.8732,0,31,4059,31,America/Sao_Paulo,MG,Minas Gerais
+273,6494be310417200165cefe59,1702208,Araguatins,-5.64659,-48.1232,0,17,9243,63,America/Sao_Paulo,TO,Tocantins
+323,6494be310417200165ceee80,3103900,Araújos,-19.9405,-45.1671,0,31,4077,37,America/Sao_Paulo,MG,Minas Gerais
+373,6494be310417200165cefbf5,3504008,Assis,-22.66,-50.4183,0,35,6179,18,America/Sao_Paulo,SP,São Paulo
+423,6494be310417200165ceeb94,2301802,Baixio,-6.71945,-38.7134,0,23,1335,88,America/Sao_Paulo,CE,Ceará
+473,6494be310417200165ceec44,3200904,Barra de São Francisco,-18.7548,-40.8965,0,32,5617,27,America/Sao_Paulo,ES,Espírito Santo
+523,6494be310417200165cef1b6,5001904,Bataguassu,-21.7159,-52.4221,0,50,9037,67,America/Porto_Velho,MS,Mato Grosso do Sul
+573,6494be310417200165ceee9a,3106507,Berilo,-16.9567,-42.4606,0,31,4129,33,America/Sao_Paulo,MG,Minas Gerais
+623,6494be310417200165cefa7c,4202438,Bocaina do Sul,-27.7455,-49.9423,0,42,898,49,America/Sao_Paulo,SC,Santa Catarina
+673,6494be310417200165cef858,1400159,Bonfim,3.36161,-59.8333,0,14,307,95,America/Porto_Velho,RR,Roraima
+723,6494be310417200165cefa84,4202859,Braço do Trombudo,-27.3586,-49.8821,0,42,5557,47,America/Sao_Paulo,SC,Santa Catarina
+773,6494be310417200165ceea18,2904753,Buritirama,-10.7171,-43.6302,0,29,3079,77,America/Sao_Paulo,BA,Bahia
+823,6494be310417200165cee936,2701209,Cacimbinhas,-9.40121,-36.9911,0,27,2723,82,America/Sao_Paulo,AL,Alagoas
+873,6494be310417200165cee9d0,1600204,Calçoene,2.50475,-50.9512,0,16,603,96,America/Sao_Paulo,AP,Amapá
+923,6494be310417200165cef8ab,4303905,Campo Bom,-29.6747,-51.0606,0,43,8577,51,America/Sao_Paulo,RS,Rio Grande do Sul
+973,6494be310417200165cef82b,1100809,Candeias do Jamari,-8.7907,-63.7005,0,11,681,69,America/Porto_Velho,RO,Rondônia
+1023,6494be310417200165cef5d1,4104600,Capitão Leônidas Marques,-25.4816,-53.6112,0,41,7489,45,America/Sao_Paulo,PR,Paraná
+1073,6494be310417200165ceeba4,2303105,Cariré,-3.94858,-40.476,0,23,1361,88,America/Sao_Paulo,CE,Ceará
+1123,6494be310417200165cef215,5102850,Castanheira,-11.1251,-58.6081,0,51,9783,66,America/Porto_Velho,MT,Mato Grosso
+1173,6494be310417200165cefe6e,1704105,Centenário,-8.96103,-47.3304,0,17,343,63,America/Sao_Paulo,TO,Tocantins
+1223,6494be310417200165cef427,2604502,Chã Grande,-8.23827,-35.4571,0,26,2389,81,America/Sao_Paulo,PE,Pernambuco
+1273,6494be310417200165cef4ec,2202778,Colônia do Piauí,-7.22651,-42.1756,0,22,2253,89,America/Sao_Paulo,PI,Piauí
+1323,6494be310417200165cef8d5,4305801,Constantina,-27.732,-52.9938,0,43,8613,54,America/Sao_Paulo,RS,Rio Grande do Sul
+1373,6494be310417200165cef5e7,4106555,Corumbataí do Sul,-24.101,-52.1177,0,41,8479,44,America/Sao_Paulo,PR,Paraná
+1423,6494be310417200165cef5e8,4106803,Cruz Machado,-26.0166,-51.343,0,41,7533,42,America/Sao_Paulo,PR,Paraná
+1473,6494be310417200165cef42d,2605103,Custódia,-8.08546,-37.6443,0,26,2401,87,America/Sao_Paulo,PE,Pernambuco
+1523,6494be310417200165cefe79,1707009,Dianópolis,-11.624,-46.8198,0,17,9341,63,America/Sao_Paulo,TO,Tocantins
+1573,6494be310417200165ceef56,3122900,Dona Eusébia,-21.319,-42.807,0,31,4457,32,America/Sao_Paulo,MG,Minas Gerais
+1623,6494be310417200165cefc70,3515103,Embu-Guaçu,-23.8297,-46.8136,0,35,6403,11,America/Sao_Paulo,SP,São Paulo
+1673,6494be310417200165cefc74,3515194,Espírito Santo do Turvo,-22.6925,-49.4341,0,35,7253,14,America/Sao_Paulo,SP,São Paulo
+1723,6494be310417200165ceea60,2910776,Feira da Mata,-14.2044,-44.2744,0,29,3275,77,America/Sao_Paulo,BA,Bahia
+1773,6494be310417200165cef7a3,2403806,Florânia,-6.12264,-36.8226,0,24,1675,84,America/Sao_Paulo,RN,Rio Grande do Norte
+1823,6494be310417200165cef436,2605806,Frei Miguelinho,-7.93918,-35.9113,0,26,2415,81,America/Sao_Paulo,PE,Pernambuco
+1873,6494be310417200165cee94a,2702900,Girau do Ponciano,-9.88404,-36.8316,0,27,2757,82,America/Sao_Paulo,AL,Alagoas
+1923,6494be310417200165cef60f,4108700,Grandes Rios,-24.1466,-51.5094,0,41,7959,43,America/Sao_Paulo,PR,Paraná
+1973,6494be310417200165cefc96,3518107,Guarantã,-21.8942,-49.5914,0,35,6463,14,America/Sao_Paulo,SP,São Paulo
+2023,6494be310417200165cefabf,4206702,Herval d'Oeste,-27.1903,-51.4917,0,42,8131,49,America/Sao_Paulo,SC,Santa Catarina
+2073,6494be310417200165cefac2,4206900,Ibirama,-27.0547,-49.5193,0,42,8135,47,America/Sao_Paulo,SC,Santa Catarina
+2123,6494be310417200165cef1d0,5004304,Iguatemi,-23.6736,-54.5637,0,50,9085,67,America/Porto_Velho,MS,Mato Grosso do Sul
+2173,6494be310417200165ceefb6,3131000,Inhaúma,-19.4898,-44.3934,0,31,4619,31,America/Sao_Paulo,MG,Minas Gerais
+2223,6494be310417200165ceface,4207759,Iraceminha,-26.8215,-53.2767,0,42,9953,49,America/Sao_Paulo,SC,Santa Catarina
+2273,6494be310417200165ceecfb,5210604,Itaguaru,-15.7565,-49.6354,0,52,9407,62,America/Sao_Paulo,GO,Goiás
+2323,6494be310417200165ceedd8,2105401,Itapecuru Mirim,-3.40202,-44.3508,0,21,807,98,America/Sao_Paulo,MA,Maranhão
+2373,6494be310417200165cefcd4,3523404,Itatiba,-23.0035,-46.8464,0,35,6569,11,America/Sao_Paulo,SP,São Paulo
+2423,6494be310417200165cef93d,4310801,Ivoti,-29.5995,-51.1533,0,43,8717,51,America/Sao_Paulo,RS,Rio Grande do Sul
+2473,6494be310417200165ceed04,5211701,Jandaia,-17.0481,-50.1453,0,52,9429,64,America/Sao_Paulo,GO,Goiás
+2523,6494be310417200165cef7b0,2405009,Jaçanã,-6.41856,-36.2031,0,24,1697,84,America/Sao_Paulo,RN,Rio Grande do Norte
+2573,6494be310417200165cef7b8,2405801,João Câmara,-5.54094,-35.8122,0,24,1713,84,America/Sao_Paulo,RN,Rio Grande do Norte
+2623,6494be310417200165ceeabc,2918605,Jussiape,-13.5155,-41.5882,0,29,3673,77,America/Sao_Paulo,BA,Bahia
+2673,6494be310417200165cef522,2205599,Lagoa do Sítio,-6.50766,-41.5653,0,22,342,89,America/Sao_Paulo,PI,Piauí
+2723,6494be310417200165cefae8,4209706,Lebon Régis,-26.928,-50.6921,0,42,8191,49,America/Sao_Paulo,SC,Santa Catarina
+2773,6494be310417200165cef650,4113734,Luiziana,-24.2853,-52.269,0,41,8481,44,America/Sao_Paulo,PR,Paraná
+2823,6494be310417200165ceead1,2920106,Mairi,-11.7107,-40.1437,0,29,3703,74,America/Sao_Paulo,BA,Bahia
+2873,6494be310417200165cef1dc,5005400,Maracaju,-21.6105,-55.1678,0,50,9107,67,America/Porto_Velho,MS,Mato Grosso do Sul
+2923,6494be310417200165cef65e,4114906,Marilândia do Sul,-23.7425,-51.3137,0,41,7433,43,America/Sao_Paulo,PR,Paraná
+2973,6494be310417200165cef95f,4312179,Mato Queimado,-28.252,-54.6159,0,43,1150,55,America/Sao_Paulo,RS,Rio Grande do Sul
+3023,6494be310417200165ceebef,2308351,Milhã,-5.67252,-39.1875,0,23,1597,88,America/Sao_Paulo,CE,Ceará
+3073,6494be310417200165ceed17,5213400,Moiporá,-16.5434,-50.739,0,52,9465,64,America/Sao_Paulo,GO,Goiás
+3123,6494be310417200165ceedf6,2107001,Montes Altos,-5.83067,-47.0673,0,21,839,99,America/Sao_Paulo,MA,Maranhão
+3173,6494be310417200165ceeae9,2922102,Mundo Novo,-11.8541,-40.4714,0,29,3743,74,America/Sao_Paulo,BA,Bahia
+3223,6494be310417200165cefd35,3532504,Neves Paulista,-20.843,-49.6358,0,35,6751,17,America/Sao_Paulo,SP,São Paulo
+3273,6494be310417200165cefd3b,3532868,Nova Castilho,-20.7615,-50.3477,0,35,806,17,America/Sao_Paulo,SP,São Paulo
+3323,6494be310417200165cef97c,4313201,Nova Petrópolis,-29.3741,-51.1136,0,43,8767,54,America/Sao_Paulo,RS,Rio Grande do Sul
+3373,6494be310417200165cee966,2705606,Novo Lino,-8.94191,-35.664,0,27,2811,82,America/Sao_Paulo,AL,Alagoas
+3423,6494be310417200165ceed2f,5215306,Orizona,-17.0334,-48.2964,0,52,9503,64,America/Sao_Paulo,GO,Goiás
+3473,6494be310417200165cef988,4313607,Paim Filho,-27.7075,-51.763,0,43,8775,54,America/Sao_Paulo,RS,Rio Grande do Sul
+3523,6494be310417200165cef07b,3146909,Papagaios,-19.4419,-44.7468,0,31,4937,37,America/Sao_Paulo,MG,Minas Gerais
+3573,6494be310417200165cef7d9,2408904,Parelhas,-6.68491,-36.6566,0,24,1777,84,America/Sao_Paulo,RN,Rio Grande do Norte
+3623,6494be310417200165cef08a,3148301,Paula Cândido,-20.8754,-42.9752,0,31,4965,32,America/Sao_Paulo,MG,Minas Gerais
+3673,6494be310417200165cefeab,1716505,Pedro Afonso,-8.97034,-48.1729,0,17,9525,63,America/Sao_Paulo,TO,Tocantins
+3723,6494be310417200165cef754,3303906,Petrópolis,-22.52,-43.1926,0,33,5877,24,America/Sao_Paulo,RJ,Rio de Janeiro
+3773,6494be310417200165cef69c,4119301,Pinhão,-25.6944,-51.6536,0,41,7765,42,America/Sao_Paulo,PR,Paraná
+3823,6494be310417200165cefd82,3539509,Pitangueiras,-21.0132,-48.221,0,35,6891,16,America/Sao_Paulo,SP,São Paulo
+3873,6494be310417200165ceec72,3204252,Ponto Belo,-18.1253,-40.5458,0,32,762,27,America/Sao_Paulo,ES,Espírito Santo
+3923,6494be310417200165cef2e7,1505908,Porto de Moz,-1.74691,-52.2361,0,15,517,93,America/Sao_Paulo,PA,Pará
+3973,6494be310417200165cefb25,4213906,Presidente Castello Branco,-27.2218,-51.8089,0,42,8273,49,America/Sao_Paulo,SC,Santa Catarina
+4023,6494be310417200165cef6b0,4120705,Quatiguá,-23.5671,-49.916,0,41,7793,43,America/Sao_Paulo,PR,Paraná
+4073,6494be310417200165cef47a,2611606,Recife,-8.04666,-34.8771,1,26,2531,81,America/Sao_Paulo,PE,Pernambuco
+4123,6494be310417200165cef1ea,5007109,Ribas do Rio Pardo,-20.4445,-53.7588,0,50,9141,67,America/Porto_Velho,MS,Mato Grosso do Sul
+4173,6494be310417200165cef2ec,1506161,Rio Maria,-7.31236,-50.0379,0,15,569,94,America/Sao_Paulo,PA,Pará
+4223,6494be310417200165cef7ef,2411007,Rodolfo Fernandes,-5.78393,-38.0579,0,24,1817,84,America/Sao_Paulo,RN,Rio Grande do Norte
+4273,6494be310417200165cef47f,2612109,Salgadinho,-7.9269,-35.6503,0,26,2541,81,America/Sao_Paulo,PE,Pernambuco
+4323,6494be310417200165cef3bc,2513158,Santa Cecília,-7.7389,-35.8764,0,25,510,83,America/Sao_Paulo,PB,Paraíba
+4373,6494be310417200165cef6d5,4123709,Santa Isabel do Ivaí,-23.0025,-53.1989,0,41,7849,44,America/Sao_Paulo,PR,Paraná
+4423,6494be310417200165cef101,3159506,Santa Rita do Itueto,-19.3576,-41.3821,0,31,5189,33,America/Sao_Paulo,MG,Minas Gerais
+4473,6494be310417200165cef6dd,4124004,Santana do Itararé,-23.7587,-49.6293,0,41,7855,43,America/Sao_Paulo,PR,Paraná
+4523,6494be310417200165cef9dc,4317558,Santo Antônio do Palma,-28.4956,-52.0267,0,43,5941,54,America/Sao_Paulo,RS,Rio Grande do Sul
+4573,6494be310417200165cef57e,2210631,Sebastião Leal,-7.56803,-44.06,0,22,398,89,America/Sao_Paulo,PI,Piauí
+4623,6494be310417200165cef3df,2515609,Serra da Raiz,-6.68527,-35.4379,0,25,2213,83,America/Sao_Paulo,PB,Paraíba
+4673,6494be310417200165cef581,2210805,Simplício Mendes,-7.85294,-41.9075,0,22,1215,89,America/Sao_Paulo,PI,Piauí
+4723,6494be310417200165ceee28,2110500,São Bento,-2.69781,-44.8289,0,21,907,98,America/Sao_Paulo,MA,Maranhão
+4773,6494be310417200165ceed5d,5219902,São Francisco de Goiás,-15.9256,-49.2605,0,52,9593,62,America/Sao_Paulo,GO,Goiás
+4823,6494be310417200165cef6e9,4125209,São Jorge d'Oeste,-25.7085,-52.9204,0,41,7881,46,America/Sao_Paulo,PR,Paraná
+4873,6494be310417200165cefdf5,3549805,São José do Rio Preto,-20.8113,-49.3758,0,35,7097,17,America/Sao_Paulo,SP,São Paulo
+4923,6494be310417200165cefb4b,4216255,São João do Oeste,-27.0984,-53.5977,0,42,5753,49,America/Sao_Paulo,SC,Santa Catarina
+4973,6494be310417200165cef3d9,2515005,São Miguel de Taipu,-7.24764,-35.2016,0,25,2201,83,America/Sao_Paulo,PB,Paraíba
+5023,6494be310417200165cee988,2708808,São Sebastião,-9.93043,-36.559,0,27,2875,82,America/Sao_Paulo,AL,Alagoas
+5073,6494be310417200165cefe14,3552700,Tabatinga,-21.7239,-48.6896,0,35,7155,16,America/Sao_Paulo,SP,São Paulo
+5123,6494be310417200165cefe1d,3553609,Tapiratiba,-21.4713,-46.7448,0,35,7173,19,America/Sao_Paulo,SP,São Paulo
+5173,6494be310417200165cef773,3305802,Teresópolis,-22.4165,-42.9752,0,33,5915,21,America/Sao_Paulo,RJ,Rio de Janeiro
+5223,6494be310417200165cef4a2,2615409,Toritama,-8.00955,-36.0637,0,26,2607,81,America/Sao_Paulo,PE,Pernambuco
+5273,6494be310417200165cefa33,4322103,Tucunduva,-27.6573,-54.4439,0,43,8945,55,America/Sao_Paulo,RS,Rio Grande do Sul
+5323,6494be310417200165cef18a,3169901,Ubá,-21.1204,-42.9359,0,31,5397,32,America/Sao_Paulo,MG,Minas Gerais
+5373,6494be310417200165cef588,2211209,Uruçuí,-7.23944,-44.5577,0,22,1223,89,America/Sao_Paulo,PI,Piauí
+5423,6494be310417200165cef58c,2211506,Vera Mendes,-7.59748,-41.4673,0,22,406,89,America/Sao_Paulo,PI,Piauí
+5473,6494be310417200165cef1a8,3172004,Visconde do Rio Branco,-21.0127,-42.8361,0,31,5441,32,America/Sao_Paulo,MG,Minas Gerais
+5523,6494be310417200165cee92a,1200708,Xapuri,-10.6516,-68.4969,0,12,149,68,America/Rio_Branco,AC,Acre
