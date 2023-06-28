@@ -1,7 +1,8 @@
 from kafka import KafkaConsumer
 import json
 from exercicios.aula_07.carga_batch import processarArquivo
-# Cria um consumidor com o Kafka
+
+# Cria um consumidor com o Kafka para ler as mensagens para processamento dos arquivos
 consumer = KafkaConsumer(
     'aula-07-exercicios-estados-municipios',
     bootstrap_servers=['127.0.0.1:9092'],
@@ -13,6 +14,11 @@ consumer = KafkaConsumer(
 if __name__=="__main__":
     # Começa a percorrer as mensagens encontradas no kafka
     for message in consumer:
-        message = message.value
-        caminhoArquivo = message["arquivo"].replace("/","\\")
+        # Decodifica a mensagem
+        dados = message.value
+
+        # Normaliza o caminho para o arquivo
+        caminhoArquivo = dados["arquivo"].replace("/","\\")
+
+        # Processa o arquivo
         processarArquivo(caminhoArquivo)
